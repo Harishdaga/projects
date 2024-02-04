@@ -26,7 +26,7 @@ news_provider_list = ['ABC News', 'ABC News (AU)', 'Aftenposten', 'Al Jazeera En
                       'The Lad Bible', 'The Next Web', 'The Sport Bible', 'The Times of India', 'The Verge',
                       'The Wall Street Journal', 'The Washington Post', 'The Washington Times', 'Time', 'USA Today',
                       'Vice News', 'Wired', 'Wired.de', 'Wirtschafts Woche', 'Xinhua Net', 'Ynet']
-api_key = 'ad659d24032d4f09aa940129cf97c1f1'
+api_key = '-----------------------------' # A unique api key has ben given to you by news-api more info in readme file 
 newsapi = NewsApiClient(api_key=api_key)
 today = date.today()
 month_ago = today - timedelta(days=29)
