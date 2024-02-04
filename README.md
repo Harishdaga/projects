@@ -9,4 +9,4 @@ we input in this
 
 
 we get output like this
-![Uploading Screenshot 2024-02-04 at 9.45.31 PM.png…]()
+<img width="1489" alt="Screenshot 2024-02-04 at 9 45 31 PM" src="https://github.com/Harishdaga/projects/assets/107297493/63d1e538-b5cf-48ac-8d18-eb6033e56269">
